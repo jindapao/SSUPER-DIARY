@@ -15,5 +15,7 @@ My asshole get hurt thanks to **上火** and constipation.So I recommended havin
 The population had expanded to the number 47000,It's incredible.  
 ### 2023.9.11
 Today I learned how to use an application named Git.The process is tough but meaningful.
+### 2023.9.14
+I was going to cultivate a hobby:to write my diary with the words I'd learnt today. Rain was forecast for XiaSha.In spite of the forcast,I got out my dormitory without carrying my umbrella.And it became true.A breeze sprang up and then flew over me.I felt frustrated because I had a cold.
 <span style="background: linear-gradient(to right, #ff0000, #ffff00);display:none">This is a text with color gradient.</span>
 <div style='color:#FFFFFF;text-shadow:#FF00FF 0px 1px 3px,#FF00FF 1px 0px 3px,#FF00FF 0px -1px 3px,#FF00FF -1px 0px 3px;filter:glow(color=#FF00FF,strength=3);display:none'>在这里输入文字嘿嘿</div>
